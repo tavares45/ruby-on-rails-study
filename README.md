@@ -1,28 +1,11 @@
-<<<<<<< HEAD
-# README
+Blog
+Um projeto Rails chamado Blog — um weblog (muito) simples, desenvolvido para fins de estudo e prática com o framework Ruby on Rails.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Descrição
+Este é um projeto básico de um blog, criado para explorar os principais conceitos do Ruby on Rails, incluindo:
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-=======
-# ruby-on-rails-study
->>>>>>> eb2fdd2bdd5429f8afe5b74c79ced7758392321d
+Estrutura básica de um projeto Rails
+Criação de modelos, controllers e views
+Configuração de rotas e navegação
+Operações de CRUD (Create, Read, Update, Delete)
+Integração de banco de dados com Active Record
