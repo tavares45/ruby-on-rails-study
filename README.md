@@ -1,4 +1,3 @@
-Blog
 Um projeto Rails chamado Blog — um weblog (muito) simples, desenvolvido para fins de estudo e prática com o framework Ruby on Rails.
 
 Descrição
